@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Srafuddin%20Ansari&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20.NET%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:9D4EDD&height=220&section=header&text=Srafuddin%20Ansari&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20.NET%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Entity+Framework;Building+ATMS+%2F+NHAI+Traffic+Systems;Real-time+Systems+%26+REST+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B,FFD93D,6BCB77,4D96FF,9D4EDD&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Entity+Framework;Building+ATMS+%2F+NHAI+Traffic+Systems;Real-time+Systems+%26+REST+APIs" alt="Typing SVG" />
 </a>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-6BCB77?style=for-the-badge&logo=briefcase&logoColor=white" />
 
-<img src="https://komarev.com/ghpvc/?username=srafuddinansari0786&color=7dd3fc&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/srafuddinansari0786?label=Followers&style=flat-square&color=7dd3fc" />
+<img src="https://komarev.com/ghpvc/?username=srafuddinansari0786&color=4D96FF&style=for-the-badge&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/srafuddinansari0786?label=Followers&style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
 
 </div>
 
@@ -47,7 +47,7 @@ const srafuddinAnsari = {
 ### 🛣️ ATMS - Advance Traffic Management System (NHAI Project)
 > Enterprise traffic management platform covering ANPR, ATCC, CCTV integration, VMS, and real-time incident detection, built for the NHAI project.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srafuddinansari0786&repo=atms-advance-traffic-management-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srafuddinansari0786&repo=atms-advance-traffic-management-system&theme=radical&border_color=FF6B6B&title_color=FF6B6B" />
 
 | Layer | Technology |
 |---|---|
@@ -64,7 +64,7 @@ const srafuddinAnsari = {
 ### 📦 Inventory Management System
 > End-to-end inventory platform for product tracking, stock management, and order/purchase handling with admin & user dashboards.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srafuddinansari0786&repo=inventory-management-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srafuddinansari0786&repo=inventory-management-system&theme=radical&border_color=FFD93D&title_color=FFD93D" />
 
 | Layer | Technology |
 |---|---|
@@ -81,7 +81,7 @@ const srafuddinAnsari = {
 ### 🕒 Employee Attendance Management System
 > Attendance platform with clock in/out, automatic attendance records, leave requests/approvals, and monthly reporting.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srafuddinansari0786&repo=employee-attendance-management-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srafuddinansari0786&repo=employee-attendance-management-system&theme=radical&border_color=6BCB77&title_color=6BCB77" />
 
 | Layer | Technology |
 |---|---|
@@ -123,23 +123,23 @@ const srafuddinAnsari = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srafuddinansari0786&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srafuddinansari0786&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srafuddinansari0786&show_icons=true&theme=radical&border_color=4D96FF&title_color=FF6B6B&icon_color=FFD93D&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srafuddinansari0786&layout=compact&theme=radical&border_color=9D4EDD&title_color=6BCB77&text_color=c9d1d9" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=srafuddinansari0786&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
+<img src="https://streak-stats.demolab.com/?user=srafuddinansari0786&theme=radical&border=4D96FF&ring=FF6B6B&fire=FFD93D&currStreakLabel=FFD93D" />
 
 </div>
 
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=srafuddinansari0786&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=srafuddinansari0786&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srafuddinansari0786&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srafuddinansari0786&hide_border=true&bg_color=00000000&color=FFD93D&line=FF6B6B&point=4D96FF&area_color=9D4EDD&area=true" />
 </div>
 
 <br/>
@@ -152,11 +152,11 @@ const srafuddinAnsari = {
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:srafuddinansari0786@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,25:4D96FF,50:6BCB77,75:FFD93D,100:FF6B6B&height=120&section=footer&animation=twinkling" width="100%"/>
