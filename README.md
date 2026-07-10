@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:9D4EDD&height=220&section=header&text=Srafuddin%20Ansari&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20.NET%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D96FF,100:9D4EDD&height=220&section=header&text=Srafuddin%20Ansari&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20.NET%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B,FFD93D,6BCB77,4D96FF,9D4EDD&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Entity+Framework;Building+ATMS+%2F+NHAI+Traffic+Systems;Real-time+Systems+%26+REST+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4D96FF,9D4EDD&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Entity+Framework;Building+ATMS+%2F+NHAI+Traffic+Systems;Real-time+Systems+%26+REST+APIs" alt="Typing SVG" />
 </a>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-6BCB77?style=for-the-badge&logo=briefcase&logoColor=white" />
 
 <img src="https://komarev.com/ghpvc/?username=srafuddinansari0786&color=4D96FF&style=for-the-badge&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/srafuddinansari0786?label=Followers&style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/srafuddinansari0786?label=Followers&style=for-the-badge&color=9D4EDD&logo=github&logoColor=white" />
 
 </div>
 
@@ -47,7 +46,7 @@ const srafuddinAnsari = {
 ### 🛣️ ATMS - Advance Traffic Management System (NHAI Project)
 > Enterprise traffic management platform covering ANPR, ATCC, CCTV integration, VMS, and real-time incident detection, built for the NHAI project.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srafuddinansari0786&repo=atms-advance-traffic-management-system&theme=radical&border_color=FF6B6B&title_color=FF6B6B" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srafuddinansari0786&repo=atms-advance-traffic-management-system&theme=radical&border_color=4D96FF&title_color=4D96FF" />
 
 | Layer | Technology |
 |---|---|
@@ -64,7 +63,7 @@ const srafuddinAnsari = {
 ### 📦 Inventory Management System
 > End-to-end inventory platform for product tracking, stock management, and order/purchase handling with admin & user dashboards.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srafuddinansari0786&repo=inventory-management-system&theme=radical&border_color=FFD93D&title_color=FFD93D" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srafuddinansari0786&repo=inventory-management-system&theme=radical&border_color=4D96FF&title_color=4D96FF" />
 
 | Layer | Technology |
 |---|---|
@@ -81,7 +80,7 @@ const srafuddinAnsari = {
 ### 🕒 Employee Attendance Management System
 > Attendance platform with clock in/out, automatic attendance records, leave requests/approvals, and monthly reporting.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srafuddinansari0786&repo=employee-attendance-management-system&theme=radical&border_color=6BCB77&title_color=6BCB77" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srafuddinansari0786&repo=employee-attendance-management-system&theme=radical&border_color=4D96FF&title_color=4D96FF" />
 
 | Layer | Technology |
 |---|---|
@@ -123,10 +122,10 @@ const srafuddinAnsari = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srafuddinansari0786&show_icons=true&theme=radical&border_color=4D96FF&title_color=FF6B6B&icon_color=FFD93D&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srafuddinansari0786&layout=compact&theme=radical&border_color=9D4EDD&title_color=6BCB77&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srafuddinansari0786&show_icons=true&theme=radical&border_color=4D96FF&title_color=4D96FF&icon_color=9D4EDD&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srafuddinansari0786&layout=compact&theme=radical&border_color=4D96FF&title_color=4D96FF&text_color=c9d1d9" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=srafuddinansari0786&theme=radical&border=4D96FF&ring=FF6B6B&fire=FFD93D&currStreakLabel=FFD93D" />
+<img src="https://streak-stats.demolab.com/?user=srafuddinansari0786&theme=radical&border=4D96FF&ring=4D96FF&fire=9D4EDD&currStreakLabel=9D4EDD" />
 
 </div>
 
@@ -139,7 +138,7 @@ const srafuddinAnsari = {
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srafuddinansari0786&hide_border=true&bg_color=00000000&color=FFD93D&line=FF6B6B&point=4D96FF&area_color=9D4EDD&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srafuddinansari0786&hide_border=true&bg_color=00000000&color=4D96FF&line=4D96FF&point=9D4EDD&area_color=4D96FF&area=true" />
 </div>
 
 <br/>
@@ -159,4 +158,4 @@ const srafuddinAnsari = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,25:4D96FF,50:6BCB77,75:FFD93D,100:FF6B6B&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:4D96FF&height=120&section=footer&animation=twinkling" width="100%"/>
